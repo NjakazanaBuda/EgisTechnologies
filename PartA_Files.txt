@@ -1,0 +1,10 @@
+1. Create the following directory on C
+	- C:\Personal\App\EgisTechnologies
+2. Put the following file on that directory
+	- gistechnologies.properties
+3. Put the following file on source folder(src) on eclipse.
+	- log4j.properties
+4. Add the following jars on build path
+	- gson-2.6.2
+	- jsoup-1.10.2
+	- log4j-1.2.17
